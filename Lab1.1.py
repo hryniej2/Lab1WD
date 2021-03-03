@@ -3,7 +3,7 @@ b = 3
 c = 4.6
 d = 7.9
 e = 1 + 1j
-f = 6 +6j
+f = 6 +5j
 print(a)
 print(b)
 print(c)
