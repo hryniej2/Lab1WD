@@ -10,4 +10,4 @@ elif op == "/":
 elif op == "*":
     print(a*b)
 else:
-    print("zly operator")
+    print("zly operator matematyczny")
