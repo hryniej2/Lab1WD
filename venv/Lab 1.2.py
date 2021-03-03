@@ -1,13 +1,13 @@
 a = float(input("Podaj pierwsza liczbe: "))
 b = float(input("Podaj druga liczbe: "))
-c = input("Podaj operator: ")
-if c == "+":
+op = input("Podaj operator: ")
+if op == "+":
     print(a + b)
-elif c == "-":
+elif op == "-":
     print(a - b)
-elif c == "/":
+elif op == "/":
     print(a/b)
-elif c == "*":
+elif op == "*":
     print(a*b)
 else:
     print("zly operator")
